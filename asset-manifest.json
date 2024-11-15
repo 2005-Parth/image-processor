@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-processor/static/css/main.71fa6d82.css",
+    "main.js": "/image-processor/static/js/main.cba1699d.js",
+    "static/js/453.f7025f9d.chunk.js": "/image-processor/static/js/453.f7025f9d.chunk.js",
+    "index.html": "/image-processor/index.html",
+    "main.71fa6d82.css.map": "/image-processor/static/css/main.71fa6d82.css.map",
+    "main.cba1699d.js.map": "/image-processor/static/js/main.cba1699d.js.map",
+    "453.f7025f9d.chunk.js.map": "/image-processor/static/js/453.f7025f9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fa6d82.css",
+    "static/js/main.cba1699d.js"
+  ]
+}
